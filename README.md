@@ -13,6 +13,6 @@ Export aseprite spritesheets as separated files by each layer.
 
 Experimental mesh deform to mimic Photoshop's transform -> free deform.
 
-<img width="1792" alt="image" src="https://github.com/VansonLeung/van_aseprite_plugins_lua/assets/1129695/49f9e83a-ac85-4698-bed2-3981920f0868">
+<img width="1792" alt="螢幕截圖 2023-07-03 下午1 18 31" src="https://github.com/VansonLeung/van_aseprite_plugins_lua/assets/1129695/37ed49fa-d76c-4cff-b66d-9d27d69aca92">
 
 
